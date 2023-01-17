@@ -1,2 +1,2 @@
 # Test-Example
-This is jsut a sample with a typo that we can fix.
+This is just a sample with a typo that we can fix.
